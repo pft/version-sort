@@ -1,0 +1,19 @@
+{
+  "name": "version-sort",
+  "version": "1.0.0",
+  "description": "Sort strings by version",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "sort",
+    "strings",
+    "version",
+    "major",
+    "minor",
+    "lexicograph"
+  ],
+  "author": "Niels Giesen",
+  "license": "GPLv3"
+}
